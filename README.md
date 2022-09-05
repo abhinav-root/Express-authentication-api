@@ -1,0 +1,16 @@
+# Authentication API using ExpressJS and MongoDB
+
+Express API to authenticate user using JWT tokens, signup, reset-password
+
+## Installation
+
+Install project with npm
+
+```bash
+  npm install
+  npm run dev
+```
+
+### postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/14050907-2051be69-f131-4230-8f7b-8be6814254eb?action=collection%2Ffork&collection-url=entityId%3D14050907-2051be69-f131-4230-8f7b-8be6814254eb%26entityType%3Dcollection%26workspaceId%3D9c886d8d-7108-438b-afcd-a3a8afdf3462#?env%5BMathonGo%20Test%20ENV%5D=W3sia2V5IjoiYmFzZVVybCIsInZhbHVlIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEiLCJzZXNzaW9uSW5kZXgiOjB9LHsia2V5IjoiZW1haWwiLCJ2YWx1ZSI6InJhaHVsQGdtYWlsLmNvbSIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoicmFodWxAZ21haWwuY29tIiwic2Vzc2lvbkluZGV4IjoxfSx7ImtleSI6InBhc3N3b3JkIiwidmFsdWUiOiJwYXNzd29yZDEyMyIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoicGFzc3dvcmQxMjMiLCJzZXNzaW9uSW5kZXgiOjJ9LHsia2V5IjoiZmlyc3ROYW1lIiwidmFsdWUiOiJyYWh1bCIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoicmFodWwiLCJzZXNzaW9uSW5kZXgiOjN9LHsia2V5IjoibGFzdE5hbWUiLCJ2YWx1ZSI6InNoYXJtYSIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoic2hhcm1hIiwic2Vzc2lvbkluZGV4Ijo0fV0=)
